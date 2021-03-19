@@ -1,0 +1,12 @@
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/bin/Debug/net5.0/CrossCutting.deps.json
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/bin/Debug/net5.0/CrossCutting.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/bin/Debug/net5.0/ref/CrossCutting.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/bin/Debug/net5.0/CrossCutting.pdb
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.csprojAssemblyReference.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.AssemblyInfoInputs.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.AssemblyInfo.cs
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.csproj.CoreCompileInputs.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/ref/CrossCutting.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.CrossCutting/obj/Debug/net5.0/CrossCutting.pdb

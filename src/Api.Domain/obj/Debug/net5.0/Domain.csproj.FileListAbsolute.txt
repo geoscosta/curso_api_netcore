@@ -1,0 +1,12 @@
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/bin/Debug/net5.0/Domain.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/bin/Debug/net5.0/Domain.pdb
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Domain/obj/Debug/net5.0/Domain.pdb

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAQ8TEguSs/foVmtJEsTBzgQs/L7n8rKZBcV1I2BYwfU8rK3l77I0sFMwIY7Yi+jY59DauhtiTs5eoH7kJSIoA==",
+  "success": true,
+  "projectFilePath": "/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Application/application.csproj",
+  "expectedPackageFiles": [
+    "/Users/Geovane/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Geovane/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Geovane/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/Geovane/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/Geovane/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/Geovane/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/bin/Debug/net5.0/Service.deps.json
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/bin/Debug/net5.0/Service.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/bin/Debug/net5.0/ref/Service.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/bin/Debug/net5.0/Service.pdb
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/Service.AssemblyInfoInputs.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/Service.AssemblyInfo.cs
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/Service.csproj.CoreCompileInputs.cache
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/Service.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/ref/Service.dll
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Service/obj/Debug/net5.0/Service.pdb
