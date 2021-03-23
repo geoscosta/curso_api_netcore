@@ -10,3 +10,6 @@
 /Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Data/obj/Debug/net5.0/Data.dll
 /Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Data/obj/Debug/net5.0/ref/Data.dll
 /Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Data/obj/Debug/net5.0/Data.pdb
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Data/bin/Debug/net5.0/Data.runtimeconfig.json
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Data/bin/Debug/net5.0/Data.runtimeconfig.dev.json
+/Users/Geovane/Documents/Course Dev/curso_api_netcore/src/Api.Data/obj/Debug/net5.0/Data.genruntimeconfig.cache
